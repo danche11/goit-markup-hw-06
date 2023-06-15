@@ -760,7 +760,7 @@ body {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: var(--form-color);
+  color: rgba(46, 47, 66, 0.4);
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   background-color: transparent;
@@ -781,7 +781,7 @@ body {
 
 .modal-form-comment:focus {
   outline: none;
-  border-color: var(--hover-link-color);
+  border-color: var(--logo-color);
 }
 
 .modal-form-checkbox {
