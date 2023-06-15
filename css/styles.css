@@ -745,6 +745,7 @@ body {
 }
 
 .form-modal-field {
+  display: block;
   margin-bottom: 4px;
   font-size: 12px;
   line-height: 1.17;
@@ -813,12 +814,12 @@ body {
 
 .modal-form-check:checked+.modal-form-check-text>.modal-form-check-desc {
   background-color: var(--hover-link-color);
-  fill: #FFFFFF;
+  fill: #F4F4FD;
   border: none;
 }
 
 .modal-form-policy-text {
-  color: var(--logo-color)
+  color: var(--logo-color);
 }
 
 .modal-button {
