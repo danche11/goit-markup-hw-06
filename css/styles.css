@@ -714,11 +714,11 @@ body {
 
 .modal-form-input:focus {
   outline: none;
-  border-color: var(--hover-link-color);
+  border-color: var(--logo-color);
 }
 
 .modal-form-input:focus+.modal-form-icon {
-  fill: var(--hover-link-color);
+  fill: var(--logo-color);
 }
 
 .modal-input-desc {
