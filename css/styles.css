@@ -69,7 +69,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 24px;
 }
 
 .header-logo-web {
@@ -532,7 +531,7 @@ body {
 }
 
 .footer-email-container {
-  margin-left: 80px;
+  margin-left: auto;
 }
 
 .footer-email-title {
@@ -554,7 +553,6 @@ body {
   width: 264px;
   height: 40px;
   padding: 8px 16px 8px 16px;
-  margin-right: 24px;
   border-radius: 4px;
   outline: none;
   background-color: transparent;
